@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋! My name is Sangam and I'm an "IT Student", from ABV - IIITM Gwalior🎓</h1>
 <br><br><br>
+<!---->
 
-###
 
 <img align="right" height="240" width = '400' src="https://i.pinimg.com/originals/78/36/37/7836378c30d35718fc29da3778a5dae5.gif" />
 
 ###
 
-<h2 align="left">⚒️ Languages & Tools I worked with ⚒️</h2>
+<!--<h2 align="left">⚒️ Languages & Tools I worked with ⚒️</h2>-->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
@@ -54,18 +54,18 @@
 
 ###
 
-<h2 align="left">📱 Connect with Me 😀</h2>
+<!--<h2 align="left">📱 Connect with Me 😀</h2>-->
 <div align="left">
   <a href="https://www.linkedin.com/in/sangam-pratap-singh-328838287/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/1049175157895340142" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
-
+<br><br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
