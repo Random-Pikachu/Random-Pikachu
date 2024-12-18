@@ -45,8 +45,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" />
