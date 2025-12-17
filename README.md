@@ -1,4 +1,5 @@
-<p align="center">Hi 👋! My name is Sangam</p>
+`Hi 👋! My name is Sangam`
+
 
 <!-- <br clear="both">
 <div align="center">
